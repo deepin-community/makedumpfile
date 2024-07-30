@@ -1,3 +1,9 @@
+makedumpfile (1:1.7.5-3deepin1) unstable; urgency=medium
+
+  * Add loong64 support
+
+ -- xiangzelong <xiangzelong@deepin.org>  Tue, 30 Jul 2024 11:05:07 +0800
+
 makedumpfile (1:1.7.5-3) unstable; urgency=medium
 
   * Use installed makedumpfile in autopkgtest.
